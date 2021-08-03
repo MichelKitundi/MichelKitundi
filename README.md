@@ -1,4 +1,10 @@
-### Hi there 👋
+## Olá! Eu sou Michel Silva �🐱‍👤🐱‍🏍
+
+Em Manuteção  :hammer:!! Iniciando no GitHub , espero em breve contribur e ajudar !    :computer: :books: :coffee:
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichelKitundi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichelKitundi&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MichelKitundi/mICHELkITUNDI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
