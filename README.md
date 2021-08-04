@@ -1,5 +1,9 @@
 ## Olá! Eu sou Michel Silva �🐱‍👤🐱‍🏍
 
+<a href="mailto:michel.adb@hotmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:michel.adb@hotmail.com">
+    </a>
+
 <!-- apaga para fuicional -->
 
 Em Manuteção  :hammer:!! Iniciando no GitHub , espero em breve contribur e ajudar !    :computer: :books: :coffee:
