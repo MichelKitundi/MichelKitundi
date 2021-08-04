@@ -1,8 +1,17 @@
 ## Olá! Eu sou Michel Silva �🐱‍👤🐱‍🏍
 
+
+<a href="https://www.linkedin.com/in/michelsilvagomes/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/michelsilvagomes/">
+    </a>
 <a href="mailto:michel.adb@hotmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:michel.adb@hotmail.com">
     </a>
+<a href="https://github.com/MichelKitundi">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/MichelKitundi">
+</a>
+
+
 
 <!-- apaga para fuicional -->
 
