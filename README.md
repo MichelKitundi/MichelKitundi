@@ -1,5 +1,7 @@
 ## Olá! Eu sou Michel Silva �🐱‍👤🐱‍🏍
 
+<!-- apaga para fuicional -->
+
 Em Manuteção  :hammer:!! Iniciando no GitHub , espero em breve contribur e ajudar !    :computer: :books: :coffee:
 
 
