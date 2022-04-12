@@ -19,10 +19,10 @@
   💼 Habilidades: <strong>Supere obstáculos com um grande sorriso .</strong>
 </p>
 <p align="center">
-  👩‍💻 Pilha: <strong> Frontend JavaScript, HTML, CSS, Bootstrap e React.</strong>
+  👩‍💻 Pilha: <strong> Frontend  HTML, CSS, JavaScript, Bootstrap </strong>
 </p>
 <p align="center">
-  🚀 Aprendizado: <strong>Java, C++, JavaScript, PHP, Typescript, React, SAS,S, Figma, UI, UX.</strong>
+  🚀 Aprendizado: <strong> JavaScript, Typescript,  SAS, Figma, UI/UX, PHP, Laravel.</strong>
 </p>
 <p align="center">
   💌 Envie uma mensagem: ⤵️
@@ -37,15 +37,13 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/keidsonroby/"/></a >
   
   <a href="https://www.linkedin.com/in/michelsilvagomes/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" />< /a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/"/>< /a>
 </p>  
  ##  💻 Tecnologias e Ferramentas
 <p align="center">
   
  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
- <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=white" height="25"/>
- <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>       
+ <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>      
  <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
   
  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
