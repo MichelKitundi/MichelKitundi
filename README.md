@@ -1,8 +1,8 @@
-<span align="center">
-
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá, Olá, mundo! </h2>
-
-</span>
+<div align="center">
+ 
+  <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
+  
+</div>
 
 <br>
 <p align="center">
@@ -53,7 +53,7 @@
           
 <div align="center">
 <h2>Vamos codificar!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px" />
 </div>
 
           
